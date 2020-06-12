@@ -1,0 +1,22 @@
+<section>
+    <div class="details">
+        <h2>{{people.firstName}} {{people.lastName}}</h2>
+        <dl>
+            <dt>ID</dt>
+            <dd>{{people._id}}</dd>
+            <dt>First Name</dt>
+            <dd>{{people.firstName}}</dd>
+            <dt>Last Name</dt>
+            <dd>{{people.lastName}}</dd>
+            <dt>UserName</dt>
+            <dd>{{people.username}}</dd>
+            <dt>Profession</dt>
+            <dd>{{people.profession}}</dd>
+            <dt>Bio</dt>
+            <dd>{{people.bio}}</dd>
+        </dl>
+    </div>
+    <div>
+        <a href="/loggedOut">Not {{people.username}}? Logout.</a>
+    </div>
+</section>

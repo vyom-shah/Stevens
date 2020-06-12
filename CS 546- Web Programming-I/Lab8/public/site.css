@@ -1,0 +1,30 @@
+h2{
+    text-align:center;
+    font-family:'Times New Roman', Times, serif;
+    font-size: xx-large;
+}
+p{
+    font-size:large;
+    font-weight: 400;
+}
+body{
+    background-color: cornsilk;
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    text-align:center;
+    font-size: xx-large;
+}
+a{
+    background-color:cornsilk;
+    color:black;
+}
+dl{
+    margin: 200px;
+}
+dt{
+    text-align:left;
+}
+dd{
+    text-align:right;
+}

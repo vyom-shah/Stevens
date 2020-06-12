@@ -1,0 +1,32 @@
+h1{
+    text-align: center;
+    padding: 50px;
+}
+h2{
+    text-align: center;
+}
+form{
+    text-align: center;
+}
+footer{
+    text-align: center;
+}
+main{
+    text-align: center;
+    width: 30%;
+    margin: auto;
+}
+#button
+{
+    background-color: grey;
+    text-decoration: none;
+}
+#button:hover{
+    box-shadow: 0 12px 20px;
+}
+footer{
+    padding: 20px;
+}
+body{
+    background-color: cornsilk;; 
+}
